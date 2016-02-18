@@ -3,7 +3,7 @@ Match The Colors is a simple game I created in Java using the LibGDX library
 
 - Parker Sprouse - Programmer / Designer / Artist
 
-Most recent build: [Download](http://parkersprouse.me/games/mtc/build/MatchTheColors.jar)
+Most recent build: [Download](https://github.com/parkersprouse/MatchTheColors/releases/tag/v1.0)
 
 ---------------------
 
